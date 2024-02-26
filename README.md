@@ -1,6 +1,8 @@
 # PY_trajectory
 A beautiful trajectory visualization library for autonomous vehicle tracking in Python
 
+![Artboard](./assets/Artboard.png)
+
 ## Usage
 
 ### First clone this repo:
@@ -51,4 +53,3 @@ def draw_vehicle(ax, x, y, yaw, color="blue"):
 ```
 
 
-![Artboard](./assets/Artboard.png)
